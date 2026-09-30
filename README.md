@@ -28,7 +28,7 @@ Backend Developer focado em Python, desenvolvimento de APIs e automação de pro
 ---
 
 ### 🤖 Linguagens e Tecnologias
-### 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="Git" 
