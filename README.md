@@ -23,6 +23,16 @@ Backend Developer focado em Python, desenvolvimento de APIs e automação de pro
             src="https://custom-icon-badges.demolab.com/github/followers/HeyArtic?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    
+<p align="left">
+    <a href="https://www.linkedin.com/in/alisson-abreuh/" target="_blank">
+        <img
+            alt="LinkedIn"
+            title="Meu perfil no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
 </p>
 
 ---
